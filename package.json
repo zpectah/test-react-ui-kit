@@ -1,0 +1,22 @@
+{
+  "name": "react-ui-toolkit",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {},
+  "files": [
+    "src",
+    "dist"
+  ],
+  "keywords": [
+    "react",
+    "css",
+    "css-in-js",
+    "ui-kit"
+  ],
+  "peerDependencies": {
+    "react": ">= 16.8.6",
+    "react-dom": ">= 16.8.6"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
