@@ -1,6 +1,6 @@
 import Button from './components/Button/Button';
 
 export default {
-    Button: Button
+    Button: Button = () => Button
 };
 
